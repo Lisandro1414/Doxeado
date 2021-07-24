@@ -1,0 +1,15 @@
+* {
+    background: black;
+    color: red;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+body {
+    text-align: center;
+}
+
+nav {
+    color: red;
+    font-size: 30px;
+}
